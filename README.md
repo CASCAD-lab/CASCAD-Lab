@@ -16,7 +16,7 @@ Along with EDNiX we will also release MRI datasets and libraries of cross-specie
 
 * A first release of EDNIX was used in: [Junda Zhu*, Clément M. Garin*, Xue-Lian Qi, Anna Machado, Zhengyang Wang, Suliann Ben Hamed, Terrence R. Stanford, Emilio Salinas, Christopher T. Whitlow, Adam W. Anderson, Xin Maizie Zhou, Finnegan J. Calabro, Beatriz Luna & Christos Constantinidis (2025) Longitudinal measures of monkey brain structure and activity through adolescence predict cognitive maturation. _**Nat Neurosci**_ 28, 2344–2355](https://doi-org.insb.bib.cnrs.fr/10.1038/s41593-025-02076-0)
 
-## **The DOGAPP**
+## **The DogApp**
 
 Suliann Ben Hamed, Clément Garin, Léonie Olivier, Floriane Fournier
 
