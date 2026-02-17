@@ -12,6 +12,8 @@ Along with EDNiX we will also release MRI datasets and libraries of cross-specie
 
 Anticipated v2: https://github.com/garincle/EDNiX.
 
+A first release of EDNIX was used in: [Junda Zhu*, Clément M. Garin*, Xue-Lian Qi, Anna Machado, Zhengyang Wang, Suliann Ben Hamed, Terrence R. Stanford, Emilio Salinas, Christopher T. Whitlow, Adam W. Anderson, Xin Maizie Zhou, Finnegan J. Calabro, Beatriz Luna & Christos Constantinidis (2025) Longitudinal measures of monkey brain structure and activity through adolescence predict cognitive maturation. _**Nat Neurosci**_ 28, 2344–2355](https://doi-org.insb.bib.cnrs.fr/10.1038/s41593-025-02076-0) 
+
 ## **[Automated video-based heart rate tracking for the anesthetized and behaving monkey](https://www.nature.com/articles/s41598-020-74954-5)**
 
 Mathilda Froesel*, Quentin Goudard*, Marc Hauser, Maëva Gacoin & Suliann Ben Hamed (2020) **_Scientific Reports_** _Vol 10_, 17940. DOI: https://doi.org/10.1038/s41598-020-74954-5
