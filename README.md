@@ -1,5 +1,3 @@
-# CASCAD-Lab
-
 # **CASCAD:** Cross-species Analysis of Cognitive Architecture and functional brain Dynamics 
 
 This github organizes the work of the CASCAD laboratory. Some aspects of this work is presented here: [the BenHamedLab](http://www.BenHamedLab.org) and here [The Brain 3.0 project](https://sites.google.com/view/thebrain30project/accueil/). Projects are made public as they get verified and reach the publication stage. 
