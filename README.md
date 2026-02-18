@@ -32,7 +32,7 @@ Heart rate (HR) is extremely valuable in the study of complex behaviours and the
 
 * [Automated video-based heart rate tracking for the anesthetized and behaving monkey](https://www.nature.com/articles/s41598-020-74954-5)
 
-* [EVM_HeartRateEstimation](https://github.com/SuliannBenHamed/Cardio)
+* [EVM_HeartRateEstimation](https://github.com/CASCAD-lab/Cardio)
 
 ## **[The MacqD deep-learning-based model for automatic detection of socially housed laboratory macaques:](https://www.nature.com/articles/s41598-025-95180-x)**
 
